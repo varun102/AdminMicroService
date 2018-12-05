@@ -1,4 +1,12 @@
+/**File name=AdminLogin
+ * Author=Govind Singh
+ * Date=27/12/2018
+ */
+
+
 package com.ntl.topjobs.adminlogin.bean;
+
+
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
